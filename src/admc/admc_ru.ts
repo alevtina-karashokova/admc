@@ -17,7 +17,7 @@
         <location filename="about_dialog.ui" line="50"/>
         <source>Copyright (C) 2025 BaseALT Ltd.</source>
         <oldsource>Copyright (C) 2022 BaseALT Ltd.</oldsource>
-        <translation type="unfinished">Авторские права: ООО «Базальт СПО», 2025.</translation>
+        <translation>Авторские права: ООО «Базальт СПО», 2025.</translation>
     </message>
 </context>
 <context>
@@ -245,18 +245,18 @@
     <message>
         <location filename="attribute_dialogs/attribute_dialog.cpp" line="112"/>
         <source>View</source>
-        <translation type="unfinished">Просмотреть</translation>
+        <translation>Просмотреть</translation>
     </message>
     <message>
         <location filename="attribute_dialogs/attribute_dialog.cpp" line="114"/>
         <source>Edit</source>
-        <translation type="unfinished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <location filename="attribute_dialogs/attribute_dialog.cpp" line="123"/>
         <source>%1 Multi-Valued %2</source>
         <comment>This is a dialog title for attribute editors. Example: &quot;Edit Multi-Valued String&quot;</comment>
-        <translation type="unfinished">%1 %2 (Многозначный)</translation>
+        <translation>%1 %2 (Многозначный)</translation>
     </message>
     <message>
         <location filename="attribute_dialogs/attribute_dialog.cpp" line="149"/>
@@ -1428,105 +1428,105 @@
     <message>
         <location filename="find_policy_dialog.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="41"/>
         <source>Search item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Элемент поиска:</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="51"/>
         <source>Condition:</source>
-        <translation type="unfinished">Состояние:</translation>
+        <translation>Состояние:</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="61"/>
         <source>Value:</source>
-        <translation type="unfinished">Значение:</translation>
+        <translation>Значение:</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="75"/>
         <source>Add</source>
-        <translation type="unfinished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="97"/>
         <source>Filters:</source>
-        <translation type="unfinished">Фильтры:</translation>
+        <translation>Фильтры:</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="114"/>
         <source>Remove</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="121"/>
         <location filename="find_policy_dialog.ui" line="164"/>
         <source>Clear</source>
-        <translation type="unfinished">Очистить</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="150"/>
         <source>Find</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.ui" line="157"/>
         <source>Stop</source>
-        <translation type="unfinished">Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="48"/>
         <source>&amp;Action</source>
-        <translation type="unfinished">&amp;Действие</translation>
+        <translation>&amp;Действие</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="50"/>
         <source>&amp;View</source>
-        <translation type="unfinished">&amp;Вид</translation>
+        <translation>&amp;Вид</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="63"/>
         <location filename="find_policy_dialog.cpp" line="192"/>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="64"/>
         <location filename="find_policy_dialog.cpp" line="193"/>
         <source>GUID</source>
-        <translation type="unfinished"></translation>
+        <translation>GUID</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="95"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">&amp;Значки</translation>
+        <translation>&amp;Значки</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="97"/>
         <source>&amp;List</source>
-        <translation type="unfinished">&amp;Список</translation>
+        <translation>&amp;Список</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="99"/>
         <source>&amp;Detail</source>
-        <translation type="unfinished">&amp;Подробно</translation>
+        <translation>&amp;Подробно</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="101"/>
         <source>&amp;Customize Columns</source>
-        <translation type="unfinished">&amp;Настроить колонки</translation>
+        <translation>&amp;Настроить колонки</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="102"/>
         <source>&amp;Description Bar</source>
-        <translation type="unfinished">&amp;Область описания</translation>
+        <translation>&amp;Область описания</translation>
     </message>
     <message>
         <location filename="find_policy_dialog.cpp" line="137"/>
         <source>Find results</source>
-        <translation type="unfinished">Результаты поиска</translation>
+        <translation>Результаты поиска</translation>
     </message>
 </context>
 <context>
@@ -1534,12 +1534,12 @@
     <message>
         <location filename="console_impls/find_policy_impl.cpp" line="47"/>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="console_impls/find_policy_impl.cpp" line="48"/>
         <source>GUID</source>
-        <translation type="unfinished"></translation>
+        <translation>GUID</translation>
     </message>
 </context>
 <context>
@@ -1605,12 +1605,12 @@
     <message>
         <location filename="console_impls/found_policy_impl.cpp" line="38"/>
         <source>Add link...</source>
-        <translation type="unfinished">Добавить связь...</translation>
+        <translation>Добавить связь...</translation>
     </message>
     <message>
         <location filename="console_impls/found_policy_impl.cpp" line="39"/>
         <source>Edit...</source>
-        <translation type="unfinished">Изменить...</translation>
+        <translation>Изменить...</translation>
     </message>
 </context>
 <context>
@@ -2137,22 +2137,22 @@
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="36"/>
         <source>Remove link</source>
-        <translation type="unfinished">Удалить связь</translation>
+        <translation>Удалить связь</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="37"/>
         <source>Move up</source>
-        <translation type="unfinished">Переместить вверх</translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="38"/>
         <source>Move down</source>
-        <translation type="unfinished">Переместить вниз</translation>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <location filename="results_widgets/policy_ou_results_widget/linked_policies_widget.cpp" line="39"/>
@@ -2172,22 +2172,22 @@
     <message>
         <location filename="results_widgets/policy_ou_results_widget/linked_policies_widget.cpp" line="54"/>
         <source>Order</source>
-        <translation type="unfinished">Порядок</translation>
+        <translation>Порядок</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="50"/>
         <source>Enforced</source>
-        <translation type="unfinished">Принудительно</translation>
+        <translation>Принудительно</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="51"/>
         <source>Disabled</source>
-        <translation type="unfinished">Отключено</translation>
+        <translation>Отключено</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="111"/>
@@ -2202,12 +2202,12 @@
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="354"/>
         <source>Not found</source>
-        <translation type="unfinished">Не найдено</translation>
+        <translation>Не найдено</translation>
     </message>
     <message>
         <location filename="policy_ou_results_widget/linked_policies_widget.cpp" line="384"/>
         <source>The GPO for this link could not be found. It maybe have been recently created and is being replicated or it could have been deleted.</source>
-        <translation type="unfinished">Не удалось найти объект групповой политики для этой связи. Возможно, он был недавно создан и реплицируется или был удалён.</translation>
+        <translation>Не удалось найти объект групповой политики для этой связи. Возможно, он был недавно создан и реплицируется или был удалён.</translation>
     </message>
 </context>
 <context>
@@ -3411,12 +3411,12 @@
     <message>
         <location filename="console_impls/policy_impl.cpp" line="118"/>
         <source>Incorrect permissions detected</source>
-        <translation type="unfinished">Обнаружены неверные разрешения</translation>
+        <translation>Обнаружены неверные разрешения</translation>
     </message>
     <message>
         <location filename="console_impls/policy_impl.cpp" line="102"/>
         <source>Permissions for this policy&apos;s GPT don&apos;t match the permissions for it&apos;s GPC object. Would you like to update GPT permissions?</source>
-        <translation type="unfinished">Разрешения шаблона групповой политики у данной политики не совпадают с разрешениями её объекта контейнера групповой политики. Обновить разрешения шаблона групповой политики?</translation>
+        <translation>Разрешения шаблона групповой политики у данной политики не совпадают с разрешениями её объекта контейнера групповой политики. Обновить разрешения шаблона групповой политики?</translation>
     </message>
     <message>
         <location filename="console_impls/policy_impl.cpp" line="370"/>
@@ -4681,64 +4681,6 @@
         <location filename="utils.cpp" line="443"/>
         <source>Error</source>
         <translation>Ошибка</translation>
-    </message>
-</context>
-<context>
-    <name>LAPSV2Tab</name>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="14"/>
-        <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="22"/>
-        <source>LAPS local admin account password:</source>
-        <translation>Пароль учетной записи локального администратора LAPS:</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="29"/>
-        <source>Current LAPS password expiration:</source>
-        <translation>Время завершения действия пароля LAPS:</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="36"/>
-        <source>Local Administrator Password Solution</source>
-        <translation>Решение для пароля локального администратора</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="43"/>
-        <source>Set new LAPS password expiration:</source>
-        <translation>Установить новый срок истечения пароля LAPS:</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="87"/>
-        <source>Show password</source>
-        <translation>Показать пароль</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="106"/>
-        <source>Expire now</source>
-        <translation>Обновить сейчас</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="126"/>
-        <source>Copy password</source>
-        <translation>Скопировать пароль</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.ui" line="133"/>
-        <source>LAPS local admin account name:</source>
-        <translation>Имя учетной записи локального администратора LAPS:</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.cpp" line="84"/>
-        <source>Failed to decode LAPS data.</source>
-        <translation>Не удалось декодировать данные LAPS.</translation>
-    </message>
-    <message>
-        <location filename="tabs/laps_v2_tab.cpp" line="84"/>
-        <source>Verify that you have the necessary permissions to access LAPS attributes!</source>
-        <translation>Проверьте, что у вас есть необходимые права доступа к атрибутам LAPS!</translation>
     </message>
 </context>
 </TS>
